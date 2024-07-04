@@ -11,9 +11,14 @@ I aim to develop strong skills in this language to create effective and efficien
 [![Python](https://img.shields.io/badge/-python-306998?logo=python&logoColor=white&style=for-the-badge&labelColor=101010)]() 
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge&labelColor=101010)]() 
 [![Flask](https://img.shields.io/badge/-flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelColor=101010)]()
-[![Django](https://img.shields.io/badge/-django-092e20?logo=django&logoColor=white&style=for-the-badge&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=101010)]()
 [![React](https://img.shields.io/badge/-react-7cc5d9?logo=react&logoColor=white&style=for-the-badge&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/-aws-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge&labelColor=101010)]()
+[![Expo](https://img.shields.io/badge/-expo-000020?logo=expo&logoColor=white&style=for-the-badge&labelColor=101010)]()
+[![BootStrap](https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=101010)]()
 
+##
+[![buymeacoffee](https://img.shields.io/badge/-Rapouse-FFDD00?logo=buymeacoffee&logoColor=white&style=for-the-badge&labelColor=101010?link=https://www.linkedin.com/in/james-lima/)]()
 
 <!--
 **Rapouse/Rapouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
