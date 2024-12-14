@@ -2,11 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=306998&random=false&width=435&lines=Hi+there%2C+my+name+is+James+Lima+%F0%9F%91%8B">
 </h1>
 
-Enthusiast of the best web & mobile development technologies.
+📢 Here’s the truth: The future belongs to those who build. 
 
-My journey is a constant pursuit of enhancing my skills, as I am determined to become a proficient Full Stack developer, with a special focus on Python. 
+I’m a professional who combines the best of both worlds – Fullstack Development and Artificial Intelligence Engineering – to create solutions that not only work but also learn, adapt, and deliver results. 
 
-I aim to develop strong skills in this language to create effective and efficient technological solutions.
+🎯 How I play the game: 
+
+I don’t build just for the sake of building. I dive deep into the problem, analyze the context, and deliver the right solution. 
+
+Powerful AI and well-crafted code mean nothing if they’re not aligned with the end goal. 
+
+From system design to final delivery, every step must be treated as a critical piece of the puzzle. 
+
+💡 If it’s possible to teach a machine, I’ll make it happen.
 
 [![Python](https://img.shields.io/badge/-python-306998?logo=python&logoColor=white&style=for-the-badge&labelColor=101010)]() 
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge&labelColor=101010)]() 
